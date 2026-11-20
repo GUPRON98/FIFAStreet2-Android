@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+MIDlet-Name: FIFA Street 2
+Sound-Default: On
+Created-By: 1.4.2_09 (Sun Microsystems Inc.)
+MIDlet-1: FIFA Street 2, /icon.png, FIFAStreet2
+Nokia-Midlet-Category: Game
+VIBRATIONDEFAULT: On
+MIDlet-Data-Size: 3500
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Icon: /icon.png
+MIDlet-Info-URL: http://www.ea.com
+MIDlet-Vendor: Electronic Arts, Inc.
+MIDlet-Version: 1.1.45
+MicroEdition-Profile: MIDP-1.0
+
